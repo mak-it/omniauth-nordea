@@ -6,11 +6,11 @@ require 'omniauth/nordea/version'
 Gem::Specification.new do |gem|
   gem.name          = 'omniauth-nordea'
   gem.version       = Omniauth::Nordea::VERSION
-  gem.authors       = ['Jānis Kiršteins', 'Kristaps Ērglis']
-  gem.email         = ['janis@montadigital.com', 'kristaps.erglis@gmail.com' ]
+  gem.authors       = ['MAK IT', 'Jānis Kiršteins', 'Kristaps Ērglis']
+  gem.email         = ['admin@makit.lv', 'janis@montadigital.com', 'kristaps.erglis@gmail.com' ]
   gem.description   = %q{OmniAuth strategy for Nordea bank}
   gem.summary       = %q{OmniAuth strategy for Nordea bank}
-  gem.homepage      = ''
+  gem.homepage      = 'https://github.com/mak-it/omniauth-nordea'
   gem.license       = 'MIT'
 
   gem.files         = `git ls-files`.split($/)
